@@ -49,7 +49,7 @@
     "@types/pbf": "^3.0.1",
     "@types/topojson-specification": "^1.0.1",
     "babel-loader": "^8.0.5",
-    "buble": "^0.19.7",
+    "buble": "^0.19.8",
     "buble-loader": "^0.5.1",
     "chaikin-smooth": "^1.0.4",
     "clean-css-cli": "4.3.0",
